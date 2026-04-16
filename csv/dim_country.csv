@@ -1,0 +1,39 @@
+country_id,country,region
+1,Indonesia,Asia & Pacific
+2,France,Europe
+3,Australia,Oceania
+4,Netherlands,Europe
+5,Germany,Europe
+6,Norway,Europe
+7,EIRE,Europe
+8,Switzerland,Europe
+9,Spain,Europe
+10,Poland,Europe
+11,Portugal,Europe
+12,Italy,Europe
+13,Belgium,Europe
+14,Lithuania,Europe
+15,Japan,Asia & Pacific
+16,Iceland,Europe
+17,Channel Islands,Europe
+18,Denmark,Europe
+19,Cyprus,Europe
+20,Sweden,Europe
+21,Finland,Europe
+22,Austria,Europe
+23,Bahrain,Asia & Pacific
+24,Israel,Asia & Pacific
+25,Greece,Europe
+26,Hong Kong,Asia & Pacific
+27,Singapore,Asia & Pacific
+28,Lebanon,Asia & Pacific
+29,United Arab Emirates,Asia & Pacific
+30,Saudi Arabia,Asia & Pacific
+31,Czech Republic,Europe
+32,Canada,North America
+33,Unspecified,Other
+34,Brazil,South America
+35,USA,North America
+36,European Community,Europe
+37,Malta,Europe
+38,RSA,Africa
